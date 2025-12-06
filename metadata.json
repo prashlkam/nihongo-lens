@@ -1,0 +1,8 @@
+{
+  "name": "NihongoLens",
+  "description": "An interactive Japanese learning companion using AI to translate the world around you, practice speaking, and learn culture.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
